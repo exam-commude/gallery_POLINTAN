@@ -23,7 +23,7 @@
     ``` 
 6.  Execute Database Migration and Seeders
     ```bash
-        $   php migrate:fresh --seed
+        $   php artisan migrate:fresh --seed
     ``` 
 7.  Create Storage symlink for Storage in Public Directory
     ```bash
